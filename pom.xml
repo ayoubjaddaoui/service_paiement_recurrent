@@ -103,7 +103,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.service_portefeuilles.ServicePortefeuillesApplication</mainClass>
+                            <mainClass>com.example.servicepaiementrecurrent</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
