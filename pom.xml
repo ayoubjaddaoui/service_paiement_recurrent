@@ -103,7 +103,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.servicepaiementrecurrent</mainClass>
+                            <mainClass>com.example.servicepaiementrecurrent.ServicePaiementRecurrentApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
