@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>service-paiement-recurrent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service-paiement-recurrent</name>
+    <name>service_paiement_recurrent</name>
     <description>service-paiement-recurrent</description>
     <url/>
     <licenses>
