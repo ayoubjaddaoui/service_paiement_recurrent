@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
-@FeignClient(name = "service-cartes-virtuelles", url = "http://localhost:8082/api/cartes-virtuelles")
+@FeignClient(name = "service-cartes-virtuelles", url = "https://servicecartesvirtuelles-production.up.railway.app/api/cartes-virtuelles")
 public interface CarteVirtuelleClient {
 
     @GetMapping("/{cvv}")
